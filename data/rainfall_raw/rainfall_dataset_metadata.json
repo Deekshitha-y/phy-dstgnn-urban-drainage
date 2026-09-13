@@ -1,0 +1,114 @@
+{
+    "city": "Greater Hyderabad (GHMC)",
+    "latitude": 17.385,
+    "longitude": 78.4867,
+    "time_range": "2010-01-01 to 2025-12-31",
+    "total_hourly_records": 140256,
+    "mean_annual_rainfall_mm": 1639.743125,
+    "annual_rainfall_breakdown_mm": {
+        "2010": 1757.69,
+        "2011": 1670.69,
+        "2012": 1473.08,
+        "2013": 1512.78,
+        "2014": 1617.71,
+        "2015": 1483.47,
+        "2016": 1754.33,
+        "2017": 1653.55,
+        "2018": 1415.64,
+        "2019": 1597.05,
+        "2020": 1977.92,
+        "2021": 1761.16,
+        "2022": 1849.88,
+        "2023": 1567.17,
+        "2024": 1730.7,
+        "2025": 1413.07
+    },
+    "annual_peak_hourly_intensity_mm_hr": {
+        "2010": 41.13,
+        "2011": 24.35,
+        "2012": 21.17,
+        "2013": 23.16,
+        "2014": 32.32,
+        "2015": 24.32,
+        "2016": 26.75,
+        "2017": 27.72,
+        "2018": 26.49,
+        "2019": 28.84,
+        "2020": 21.61,
+        "2021": 25.89,
+        "2022": 27.48,
+        "2023": 25.45,
+        "2024": 29.02,
+        "2025": 19.11
+    },
+    "historical_benchmark_storms": [
+        {
+            "name": "Historic Super-Flood (October 2020)",
+            "start_date": "2020-10-13 00:00:00",
+            "end_date": "2020-10-14 23:00:00",
+            "peak_intensity_mm_hr": 68.5,
+            "total_24h_rainfall_mm": 320.2,
+            "impact_zones": [
+                "Begumpet",
+                "Nadeem Colony",
+                "Tolichowki",
+                "Musi Banks",
+                "Bandlaguda"
+            ],
+            "category": "Catastrophic (Return Period > 100-yr)"
+        },
+        {
+            "name": "Alwal-Begumpet Inundation (September 2016)",
+            "start_date": "2016-09-21 00:00:00",
+            "end_date": "2016-09-23 23:00:00",
+            "peak_intensity_mm_hr": 42.0,
+            "total_24h_rainfall_mm": 172.5,
+            "impact_zones": [
+                "Alwal",
+                "Nizampet",
+                "Begumpet",
+                "Quthbullapur"
+            ],
+            "category": "Severe (Return Period ~ 25-yr)"
+        },
+        {
+            "name": "Independence Day Cloudburst (August 2019)",
+            "start_date": "2019-08-14 12:00:00",
+            "end_date": "2019-08-16 12:00:00",
+            "peak_intensity_mm_hr": 35.0,
+            "total_24h_rainfall_mm": 128.0,
+            "impact_zones": [
+                "Khairatabad",
+                "Ameerpet",
+                "Secunderabad"
+            ],
+            "category": "Moderate-Severe (Return Period ~ 10-yr)"
+        },
+        {
+            "name": "July Heavy Monsoon Spell (July 2022)",
+            "start_date": "2022-07-23 00:00:00",
+            "end_date": "2022-07-25 23:00:00",
+            "peak_intensity_mm_hr": 38.5,
+            "total_24h_rainfall_mm": 148.0,
+            "impact_zones": [
+                "Serilingampally",
+                "Kukatpally",
+                "Chandanagar"
+            ],
+            "category": "Severe (Return Period ~ 15-yr)"
+        },
+        {
+            "name": "Cyberabad Inundation Spell (July 2024)",
+            "start_date": "2024-07-19 00:00:00",
+            "end_date": "2024-07-21 23:00:00",
+            "peak_intensity_mm_hr": 31.0,
+            "total_24h_rainfall_mm": 115.0,
+            "impact_zones": [
+                "Madhapur",
+                "Gachibowli",
+                "Jubilee Hills"
+            ],
+            "category": "Moderate (Return Period ~ 5-yr)"
+        }
+    ]
+}

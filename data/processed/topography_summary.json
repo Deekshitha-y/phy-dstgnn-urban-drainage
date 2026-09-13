@@ -1,0 +1,12 @@
+{
+    "total_nodes": 75,
+    "total_edges": 74,
+    "elevation_range_m": {
+        "min_invert_elev_m": 492.77,
+        "max_ground_elev_m": 587.04,
+        "mean_elevation_m": 540.0012
+    },
+    "mean_hydraulic_slope": 0.0015010810810810813,
+    "total_pipe_length_km": 139.91,
+    "max_conduit_capacity_m3_s": 8.2
+}

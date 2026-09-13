@@ -1,0 +1,3755 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.440221,
+                    17.301236
+                ]
+            },
+            "properties": {
+                "node_id": "J_KUK_001",
+                "node_index": 0,
+                "zone": "Kukatpally Nala Basin",
+                "latitude": 17.301236,
+                "longitude": 78.440221,
+                "ground_elevation_m": 562.23,
+                "invert_elevation_m": 558.53,
+                "max_depth_m": 3.7,
+                "subcatchment_area_ha": 4.03,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.413443,
+                    17.29468
+                ]
+            },
+            "properties": {
+                "node_id": "J_KUK_002",
+                "node_index": 1,
+                "zone": "Kukatpally Nala Basin",
+                "latitude": 17.29468,
+                "longitude": 78.413443,
+                "ground_elevation_m": 560.57,
+                "invert_elevation_m": 556.86,
+                "max_depth_m": 3.7,
+                "subcatchment_area_ha": 11.2,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.440797,
+                    17.290618
+                ]
+            },
+            "properties": {
+                "node_id": "J_KUK_003",
+                "node_index": 2,
+                "zone": "Kukatpally Nala Basin",
+                "latitude": 17.290618,
+                "longitude": 78.440797,
+                "ground_elevation_m": 558.73,
+                "invert_elevation_m": 555.81,
+                "max_depth_m": 2.92,
+                "subcatchment_area_ha": 4.36,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.420827,
+                    17.295502
+                ]
+            },
+            "properties": {
+                "node_id": "J_KUK_004",
+                "node_index": 3,
+                "zone": "Kukatpally Nala Basin",
+                "latitude": 17.295502,
+                "longitude": 78.420827,
+                "ground_elevation_m": 556.62,
+                "invert_elevation_m": 553.26,
+                "max_depth_m": 3.36,
+                "subcatchment_area_ha": 5.79,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.415885,
+                    17.308356
+                ]
+            },
+            "properties": {
+                "node_id": "J_KUK_005",
+                "node_index": 4,
+                "zone": "Kukatpally Nala Basin",
+                "latitude": 17.308356,
+                "longitude": 78.415885,
+                "ground_elevation_m": 554.59,
+                "invert_elevation_m": 551.36,
+                "max_depth_m": 3.23,
+                "subcatchment_area_ha": 7.93,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.41769,
+                    17.313555
+                ]
+            },
+            "properties": {
+                "node_id": "J_KUK_006",
+                "node_index": 5,
+                "zone": "Kukatpally Nala Basin",
+                "latitude": 17.313555,
+                "longitude": 78.41769,
+                "ground_elevation_m": 553.01,
+                "invert_elevation_m": 549.33,
+                "max_depth_m": 3.68,
+                "subcatchment_area_ha": 2.6,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.416816,
+                    17.308226
+                ]
+            },
+            "properties": {
+                "node_id": "J_KUK_007",
+                "node_index": 6,
+                "zone": "Kukatpally Nala Basin",
+                "latitude": 17.308226,
+                "longitude": 78.416816,
+                "ground_elevation_m": 550.77,
+                "invert_elevation_m": 546.37,
+                "max_depth_m": 4.4,
+                "subcatchment_area_ha": 14.55,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.420838,
+                    17.314252
+                ]
+            },
+            "properties": {
+                "node_id": "J_KUK_008",
+                "node_index": 7,
+                "zone": "Kukatpally Nala Basin",
+                "latitude": 17.314252,
+                "longitude": 78.420838,
+                "ground_elevation_m": 549.0,
+                "invert_elevation_m": 545.13,
+                "max_depth_m": 3.87,
+                "subcatchment_area_ha": 7.72,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.426555,
+                    17.293661
+                ]
+            },
+            "properties": {
+                "node_id": "J_KUK_009",
+                "node_index": 8,
+                "zone": "Kukatpally Nala Basin",
+                "latitude": 17.293661,
+                "longitude": 78.426555,
+                "ground_elevation_m": 547.13,
+                "invert_elevation_m": 542.82,
+                "max_depth_m": 4.32,
+                "subcatchment_area_ha": 5.36,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.421051,
+                    17.309876
+                ]
+            },
+            "properties": {
+                "node_id": "J_KUK_010",
+                "node_index": 9,
+                "zone": "Kukatpally Nala Basin",
+                "latitude": 17.309876,
+                "longitude": 78.421051,
+                "ground_elevation_m": 545.82,
+                "invert_elevation_m": 542.23,
+                "max_depth_m": 3.59,
+                "subcatchment_area_ha": 4.4,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.434954,
+                    17.319088
+                ]
+            },
+            "properties": {
+                "node_id": "J_KUK_011",
+                "node_index": 10,
+                "zone": "Kukatpally Nala Basin",
+                "latitude": 17.319088,
+                "longitude": 78.434954,
+                "ground_elevation_m": 544.44,
+                "invert_elevation_m": 540.15,
+                "max_depth_m": 4.29,
+                "subcatchment_area_ha": 9.77,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.414355,
+                    17.317656
+                ]
+            },
+            "properties": {
+                "node_id": "J_KUK_012",
+                "node_index": 11,
+                "zone": "Kukatpally Nala Basin",
+                "latitude": 17.317656,
+                "longitude": 78.414355,
+                "ground_elevation_m": 541.9,
+                "invert_elevation_m": 539.31,
+                "max_depth_m": 2.59,
+                "subcatchment_area_ha": 6.23,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.41984,
+                    17.30166
+                ]
+            },
+            "properties": {
+                "node_id": "J_KUK_013",
+                "node_index": 12,
+                "zone": "Kukatpally Nala Basin",
+                "latitude": 17.30166,
+                "longitude": 78.41984,
+                "ground_elevation_m": 540.73,
+                "invert_elevation_m": 537.52,
+                "max_depth_m": 3.21,
+                "subcatchment_area_ha": 5.65,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.415928,
+                    17.306281
+                ]
+            },
+            "properties": {
+                "node_id": "J_KUK_014",
+                "node_index": 13,
+                "zone": "Kukatpally Nala Basin",
+                "latitude": 17.306281,
+                "longitude": 78.415928,
+                "ground_elevation_m": 538.9,
+                "invert_elevation_m": 536.25,
+                "max_depth_m": 2.65,
+                "subcatchment_area_ha": 14.83,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.417661,
+                    17.313167
+                ]
+            },
+            "properties": {
+                "node_id": "J_KUK_015",
+                "node_index": 14,
+                "zone": "Kukatpally Nala Basin",
+                "latitude": 17.313167,
+                "longitude": 78.417661,
+                "ground_elevation_m": 536.31,
+                "invert_elevation_m": 532.17,
+                "max_depth_m": 4.13,
+                "subcatchment_area_ha": 11.19,
+                "is_outfall": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.440221,
+                        17.301236
+                    ],
+                    [
+                        78.413443,
+                        17.29468
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_KUK_001_J_KUK_002",
+                "edge_index": 0,
+                "from_node": "J_KUK_001",
+                "to_node": "J_KUK_002",
+                "from_index": 0,
+                "to_index": 1,
+                "length_m": 2930.27,
+                "diameter_m": 0.9,
+                "slope": 0.001,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.413443,
+                        17.29468
+                    ],
+                    [
+                        78.440797,
+                        17.290618
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_KUK_002_J_KUK_003",
+                "edge_index": 1,
+                "from_node": "J_KUK_002",
+                "to_node": "J_KUK_003",
+                "from_index": 1,
+                "to_index": 2,
+                "length_m": 2934.37,
+                "diameter_m": 1.01,
+                "slope": 0.001,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 0.67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.440797,
+                        17.290618
+                    ],
+                    [
+                        78.420827,
+                        17.295502
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_KUK_003_J_KUK_004",
+                "edge_index": 2,
+                "from_node": "J_KUK_003",
+                "to_node": "J_KUK_004",
+                "from_index": 2,
+                "to_index": 3,
+                "length_m": 2185.14,
+                "diameter_m": 1.11,
+                "slope": 0.00117,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 0.95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.420827,
+                        17.295502
+                    ],
+                    [
+                        78.415885,
+                        17.308356
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_KUK_004_J_KUK_005",
+                "edge_index": 3,
+                "from_node": "J_KUK_004",
+                "to_node": "J_KUK_005",
+                "from_index": 3,
+                "to_index": 4,
+                "length_m": 1519.92,
+                "diameter_m": 1.22,
+                "slope": 0.00125,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.415885,
+                        17.308356
+                    ],
+                    [
+                        78.41769,
+                        17.313555
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_KUK_005_J_KUK_006",
+                "edge_index": 4,
+                "from_node": "J_KUK_005",
+                "to_node": "J_KUK_006",
+                "from_index": 4,
+                "to_index": 5,
+                "length_m": 607.98,
+                "diameter_m": 1.33,
+                "slope": 0.00334,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 2.55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.41769,
+                        17.313555
+                    ],
+                    [
+                        78.416816,
+                        17.308226
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_KUK_006_J_KUK_007",
+                "edge_index": 5,
+                "from_node": "J_KUK_006",
+                "to_node": "J_KUK_007",
+                "from_index": 5,
+                "to_index": 6,
+                "length_m": 598.73,
+                "diameter_m": 1.43,
+                "slope": 0.00494,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 3.82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.416816,
+                        17.308226
+                    ],
+                    [
+                        78.420838,
+                        17.314252
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_KUK_007_J_KUK_008",
+                "edge_index": 6,
+                "from_node": "J_KUK_007",
+                "to_node": "J_KUK_008",
+                "from_index": 6,
+                "to_index": 7,
+                "length_m": 793.2,
+                "diameter_m": 1.54,
+                "slope": 0.00156,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 2.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.420838,
+                        17.314252
+                    ],
+                    [
+                        78.426555,
+                        17.293661
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_KUK_008_J_KUK_009",
+                "edge_index": 7,
+                "from_node": "J_KUK_008",
+                "to_node": "J_KUK_009",
+                "from_index": 7,
+                "to_index": 8,
+                "length_m": 2364.57,
+                "diameter_m": 1.65,
+                "slope": 0.001,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.426555,
+                        17.293661
+                    ],
+                    [
+                        78.421051,
+                        17.309876
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_KUK_009_J_KUK_010",
+                "edge_index": 8,
+                "from_node": "J_KUK_009",
+                "to_node": "J_KUK_010",
+                "from_index": 8,
+                "to_index": 9,
+                "length_m": 1892.06,
+                "diameter_m": 1.75,
+                "slope": 0.001,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.421051,
+                        17.309876
+                    ],
+                    [
+                        78.434954,
+                        17.319088
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_KUK_010_J_KUK_011",
+                "edge_index": 9,
+                "from_node": "J_KUK_010",
+                "to_node": "J_KUK_011",
+                "from_index": 9,
+                "to_index": 10,
+                "length_m": 1793.72,
+                "diameter_m": 1.86,
+                "slope": 0.00116,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 2.22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.434954,
+                        17.319088
+                    ],
+                    [
+                        78.414355,
+                        17.317656
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_KUK_011_J_KUK_012",
+                "edge_index": 10,
+                "from_node": "J_KUK_011",
+                "to_node": "J_KUK_012",
+                "from_index": 10,
+                "to_index": 11,
+                "length_m": 2189.27,
+                "diameter_m": 1.97,
+                "slope": 0.001,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 2.39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.414355,
+                        17.317656
+                    ],
+                    [
+                        78.41984,
+                        17.30166
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_KUK_012_J_KUK_013",
+                "edge_index": 11,
+                "from_node": "J_KUK_012",
+                "to_node": "J_KUK_013",
+                "from_index": 11,
+                "to_index": 12,
+                "length_m": 1868.32,
+                "diameter_m": 2.07,
+                "slope": 0.001,
+                "roughness_n": 0.025,
+                "shape": "RECT_CLOSED",
+                "max_flow_capacity_m3s": 2.76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.41984,
+                        17.30166
+                    ],
+                    [
+                        78.415928,
+                        17.306281
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_KUK_013_J_KUK_014",
+                "edge_index": 12,
+                "from_node": "J_KUK_013",
+                "to_node": "J_KUK_014",
+                "from_index": 12,
+                "to_index": 13,
+                "length_m": 659.58,
+                "diameter_m": 2.18,
+                "slope": 0.00193,
+                "roughness_n": 0.025,
+                "shape": "RECT_CLOSED",
+                "max_flow_capacity_m3s": 4.37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.415928,
+                        17.306281
+                    ],
+                    [
+                        78.417661,
+                        17.313167
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_KUK_014_J_KUK_015",
+                "edge_index": 13,
+                "from_node": "J_KUK_014",
+                "to_node": "J_KUK_015",
+                "from_index": 13,
+                "to_index": 14,
+                "length_m": 786.11,
+                "diameter_m": 2.29,
+                "slope": 0.00519,
+                "roughness_n": 0.025,
+                "shape": "RECT_CLOSED",
+                "max_flow_capacity_m3s": 8.15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.464838,
+                    17.35187
+                ]
+            },
+            "properties": {
+                "node_id": "J_BAL_016",
+                "node_index": 15,
+                "zone": "Balkapur Nala & Central Zone",
+                "latitude": 17.35187,
+                "longitude": 78.464838,
+                "ground_elevation_m": 554.57,
+                "invert_elevation_m": 551.36,
+                "max_depth_m": 3.22,
+                "subcatchment_area_ha": 3.51,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.460399,
+                    17.355893
+                ]
+            },
+            "properties": {
+                "node_id": "J_BAL_017",
+                "node_index": 16,
+                "zone": "Balkapur Nala & Central Zone",
+                "latitude": 17.355893,
+                "longitude": 78.460399,
+                "ground_elevation_m": 553.03,
+                "invert_elevation_m": 550.4,
+                "max_depth_m": 2.63,
+                "subcatchment_area_ha": 6.04,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.463588,
+                    17.339755
+                ]
+            },
+            "properties": {
+                "node_id": "J_BAL_018",
+                "node_index": 17,
+                "zone": "Balkapur Nala & Central Zone",
+                "latitude": 17.339755,
+                "longitude": 78.463588,
+                "ground_elevation_m": 551.54,
+                "invert_elevation_m": 547.26,
+                "max_depth_m": 4.27,
+                "subcatchment_area_ha": 8.14,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.463097,
+                    17.333588
+                ]
+            },
+            "properties": {
+                "node_id": "J_BAL_019",
+                "node_index": 18,
+                "zone": "Balkapur Nala & Central Zone",
+                "latitude": 17.333588,
+                "longitude": 78.463097,
+                "ground_elevation_m": 549.86,
+                "invert_elevation_m": 546.24,
+                "max_depth_m": 3.62,
+                "subcatchment_area_ha": 12.02,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.457382,
+                    17.344814
+                ]
+            },
+            "properties": {
+                "node_id": "J_BAL_020",
+                "node_index": 19,
+                "zone": "Balkapur Nala & Central Zone",
+                "latitude": 17.344814,
+                "longitude": 78.457382,
+                "ground_elevation_m": 547.73,
+                "invert_elevation_m": 545.18,
+                "max_depth_m": 2.55,
+                "subcatchment_area_ha": 3.4,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.460792,
+                    17.330943
+                ]
+            },
+            "properties": {
+                "node_id": "J_BAL_021",
+                "node_index": 20,
+                "zone": "Balkapur Nala & Central Zone",
+                "latitude": 17.330943,
+                "longitude": 78.460792,
+                "ground_elevation_m": 545.81,
+                "invert_elevation_m": 542.3,
+                "max_depth_m": 3.52,
+                "subcatchment_area_ha": 13.8,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.454011,
+                    17.337479
+                ]
+            },
+            "properties": {
+                "node_id": "J_BAL_022",
+                "node_index": 21,
+                "zone": "Balkapur Nala & Central Zone",
+                "latitude": 17.337479,
+                "longitude": 78.454011,
+                "ground_elevation_m": 544.46,
+                "invert_elevation_m": 541.5,
+                "max_depth_m": 2.96,
+                "subcatchment_area_ha": 3.0,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.446537,
+                    17.338693
+                ]
+            },
+            "properties": {
+                "node_id": "J_BAL_023",
+                "node_index": 22,
+                "zone": "Balkapur Nala & Central Zone",
+                "latitude": 17.338693,
+                "longitude": 78.446537,
+                "ground_elevation_m": 542.83,
+                "invert_elevation_m": 538.71,
+                "max_depth_m": 4.12,
+                "subcatchment_area_ha": 10.23,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46581,
+                    17.356144
+                ]
+            },
+            "properties": {
+                "node_id": "J_BAL_024",
+                "node_index": 23,
+                "zone": "Balkapur Nala & Central Zone",
+                "latitude": 17.356144,
+                "longitude": 78.46581,
+                "ground_elevation_m": 540.29,
+                "invert_elevation_m": 536.0,
+                "max_depth_m": 4.29,
+                "subcatchment_area_ha": 9.01,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.468583,
+                    17.354223
+                ]
+            },
+            "properties": {
+                "node_id": "J_BAL_025",
+                "node_index": 24,
+                "zone": "Balkapur Nala & Central Zone",
+                "latitude": 17.354223,
+                "longitude": 78.468583,
+                "ground_elevation_m": 538.62,
+                "invert_elevation_m": 535.9,
+                "max_depth_m": 2.72,
+                "subcatchment_area_ha": 4.96,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46624,
+                    17.342813
+                ]
+            },
+            "properties": {
+                "node_id": "J_BAL_026",
+                "node_index": 25,
+                "zone": "Balkapur Nala & Central Zone",
+                "latitude": 17.342813,
+                "longitude": 78.46624,
+                "ground_elevation_m": 537.36,
+                "invert_elevation_m": 534.85,
+                "max_depth_m": 2.51,
+                "subcatchment_area_ha": 8.64,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.448363,
+                    17.342522
+                ]
+            },
+            "properties": {
+                "node_id": "J_BAL_027",
+                "node_index": 26,
+                "zone": "Balkapur Nala & Central Zone",
+                "latitude": 17.342522,
+                "longitude": 78.448363,
+                "ground_elevation_m": 534.82,
+                "invert_elevation_m": 531.64,
+                "max_depth_m": 3.18,
+                "subcatchment_area_ha": 14.26,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.457264,
+                    17.339696
+                ]
+            },
+            "properties": {
+                "node_id": "J_BAL_028",
+                "node_index": 27,
+                "zone": "Balkapur Nala & Central Zone",
+                "latitude": 17.339696,
+                "longitude": 78.457264,
+                "ground_elevation_m": 533.6,
+                "invert_elevation_m": 530.38,
+                "max_depth_m": 3.23,
+                "subcatchment_area_ha": 14.63,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.449253,
+                    17.358873
+                ]
+            },
+            "properties": {
+                "node_id": "J_BAL_029",
+                "node_index": 28,
+                "zone": "Balkapur Nala & Central Zone",
+                "latitude": 17.358873,
+                "longitude": 78.449253,
+                "ground_elevation_m": 531.6,
+                "invert_elevation_m": 528.5,
+                "max_depth_m": 3.1,
+                "subcatchment_area_ha": 5.7,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.459987,
+                    17.331107
+                ]
+            },
+            "properties": {
+                "node_id": "J_BAL_030",
+                "node_index": 29,
+                "zone": "Balkapur Nala & Central Zone",
+                "latitude": 17.331107,
+                "longitude": 78.459987,
+                "ground_elevation_m": 529.8,
+                "invert_elevation_m": 527.2,
+                "max_depth_m": 2.6,
+                "subcatchment_area_ha": 5.62,
+                "is_outfall": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.464838,
+                        17.35187
+                    ],
+                    [
+                        78.460399,
+                        17.355893
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_BAL_016_J_BAL_017",
+                "edge_index": 14,
+                "from_node": "J_BAL_016",
+                "to_node": "J_BAL_017",
+                "from_index": 15,
+                "to_index": 16,
+                "length_m": 648.7,
+                "diameter_m": 0.9,
+                "slope": 0.00148,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 0.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.460399,
+                        17.355893
+                    ],
+                    [
+                        78.463588,
+                        17.339755
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_BAL_017_J_BAL_018",
+                "edge_index": 15,
+                "from_node": "J_BAL_017",
+                "to_node": "J_BAL_018",
+                "from_index": 16,
+                "to_index": 17,
+                "length_m": 1822.93,
+                "diameter_m": 1.01,
+                "slope": 0.00172,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 0.88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.463588,
+                        17.339755
+                    ],
+                    [
+                        78.463097,
+                        17.333588
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_BAL_018_J_BAL_019",
+                "edge_index": 16,
+                "from_node": "J_BAL_018",
+                "to_node": "J_BAL_019",
+                "from_index": 17,
+                "to_index": 18,
+                "length_m": 686.51,
+                "diameter_m": 1.11,
+                "slope": 0.00149,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.07
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.463097,
+                        17.333588
+                    ],
+                    [
+                        78.457382,
+                        17.344814
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_BAL_019_J_BAL_020",
+                "edge_index": 17,
+                "from_node": "J_BAL_019",
+                "to_node": "J_BAL_020",
+                "from_index": 18,
+                "to_index": 19,
+                "length_m": 1385.54,
+                "diameter_m": 1.22,
+                "slope": 0.001,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.457382,
+                        17.344814
+                    ],
+                    [
+                        78.460792,
+                        17.330943
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_BAL_020_J_BAL_021",
+                "edge_index": 18,
+                "from_node": "J_BAL_020",
+                "to_node": "J_BAL_021",
+                "from_index": 19,
+                "to_index": 20,
+                "length_m": 1581.54,
+                "diameter_m": 1.33,
+                "slope": 0.00182,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.460792,
+                        17.330943
+                    ],
+                    [
+                        78.454011,
+                        17.337479
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_BAL_021_J_BAL_022",
+                "edge_index": 19,
+                "from_node": "J_BAL_021",
+                "to_node": "J_BAL_022",
+                "from_index": 20,
+                "to_index": 21,
+                "length_m": 1021.27,
+                "diameter_m": 1.43,
+                "slope": 0.001,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.454011,
+                        17.337479
+                    ],
+                    [
+                        78.446537,
+                        17.338693
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_BAL_022_J_BAL_023",
+                "edge_index": 20,
+                "from_node": "J_BAL_022",
+                "to_node": "J_BAL_023",
+                "from_index": 21,
+                "to_index": 22,
+                "length_m": 803.62,
+                "diameter_m": 1.54,
+                "slope": 0.00347,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 3.87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.446537,
+                        17.338693
+                    ],
+                    [
+                        78.46581,
+                        17.356144
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_BAL_023_J_BAL_024",
+                "edge_index": 21,
+                "from_node": "J_BAL_023",
+                "to_node": "J_BAL_024",
+                "from_index": 22,
+                "to_index": 23,
+                "length_m": 2815.28,
+                "diameter_m": 1.65,
+                "slope": 0.001,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.46581,
+                        17.356144
+                    ],
+                    [
+                        78.468583,
+                        17.354223
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_BAL_024_J_BAL_025",
+                "edge_index": 22,
+                "from_node": "J_BAL_024",
+                "to_node": "J_BAL_025",
+                "from_index": 23,
+                "to_index": 24,
+                "length_m": 363.13,
+                "diameter_m": 1.75,
+                "slope": 0.001,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.468583,
+                        17.354223
+                    ],
+                    [
+                        78.46624,
+                        17.342813
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_BAL_025_J_BAL_026",
+                "edge_index": 23,
+                "from_node": "J_BAL_025",
+                "to_node": "J_BAL_026",
+                "from_index": 24,
+                "to_index": 25,
+                "length_m": 1290.63,
+                "diameter_m": 1.86,
+                "slope": 0.001,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 2.06
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.46624,
+                        17.342813
+                    ],
+                    [
+                        78.448363,
+                        17.342522
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_BAL_026_J_BAL_027",
+                "edge_index": 24,
+                "from_node": "J_BAL_026",
+                "to_node": "J_BAL_027",
+                "from_index": 25,
+                "to_index": 26,
+                "length_m": 1895.24,
+                "diameter_m": 1.97,
+                "slope": 0.00169,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 3.12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.448363,
+                        17.342522
+                    ],
+                    [
+                        78.457264,
+                        17.339696
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_BAL_027_J_BAL_028",
+                "edge_index": 25,
+                "from_node": "J_BAL_027",
+                "to_node": "J_BAL_028",
+                "from_index": 26,
+                "to_index": 27,
+                "length_m": 994.28,
+                "diameter_m": 2.07,
+                "slope": 0.00127,
+                "roughness_n": 0.025,
+                "shape": "RECT_CLOSED",
+                "max_flow_capacity_m3s": 3.1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.457264,
+                        17.339696
+                    ],
+                    [
+                        78.449253,
+                        17.358873
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_BAL_028_J_BAL_029",
+                "edge_index": 26,
+                "from_node": "J_BAL_028",
+                "to_node": "J_BAL_029",
+                "from_index": 27,
+                "to_index": 28,
+                "length_m": 2291.77,
+                "diameter_m": 2.18,
+                "slope": 0.001,
+                "roughness_n": 0.025,
+                "shape": "RECT_CLOSED",
+                "max_flow_capacity_m3s": 3.15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.449253,
+                        17.358873
+                    ],
+                    [
+                        78.459987,
+                        17.331107
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_BAL_029_J_BAL_030",
+                "edge_index": 27,
+                "from_node": "J_BAL_029",
+                "to_node": "J_BAL_030",
+                "from_index": 28,
+                "to_index": 29,
+                "length_m": 3285.34,
+                "diameter_m": 2.29,
+                "slope": 0.001,
+                "roughness_n": 0.025,
+                "shape": "RECT_CLOSED",
+                "max_flow_capacity_m3s": 3.58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.478887,
+                    17.397248
+                ]
+            },
+            "properties": {
+                "node_id": "J_HUS_031",
+                "node_index": 30,
+                "zone": "Hussain Sagar Surplus & Ashok Nagar",
+                "latitude": 17.397248,
+                "longitude": 78.478887,
+                "ground_elevation_m": 536.64,
+                "invert_elevation_m": 533.17,
+                "max_depth_m": 3.48,
+                "subcatchment_area_ha": 14.81,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.491864,
+                    17.377262
+                ]
+            },
+            "properties": {
+                "node_id": "J_HUS_032",
+                "node_index": 31,
+                "zone": "Hussain Sagar Surplus & Ashok Nagar",
+                "latitude": 17.377262,
+                "longitude": 78.491864,
+                "ground_elevation_m": 535.46,
+                "invert_elevation_m": 532.49,
+                "max_depth_m": 2.98,
+                "subcatchment_area_ha": 11.47,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.490669,
+                    17.381033
+                ]
+            },
+            "properties": {
+                "node_id": "J_HUS_033",
+                "node_index": 32,
+                "zone": "Hussain Sagar Surplus & Ashok Nagar",
+                "latitude": 17.381033,
+                "longitude": 78.490669,
+                "ground_elevation_m": 533.53,
+                "invert_elevation_m": 529.96,
+                "max_depth_m": 3.57,
+                "subcatchment_area_ha": 3.17,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.481323,
+                    17.395059
+                ]
+            },
+            "properties": {
+                "node_id": "J_HUS_034",
+                "node_index": 33,
+                "zone": "Hussain Sagar Surplus & Ashok Nagar",
+                "latitude": 17.395059,
+                "longitude": 78.481323,
+                "ground_elevation_m": 531.29,
+                "invert_elevation_m": 528.7,
+                "max_depth_m": 2.58,
+                "subcatchment_area_ha": 9.68,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.472198,
+                    17.390327
+                ]
+            },
+            "properties": {
+                "node_id": "J_HUS_035",
+                "node_index": 34,
+                "zone": "Hussain Sagar Surplus & Ashok Nagar",
+                "latitude": 17.390327,
+                "longitude": 78.472198,
+                "ground_elevation_m": 529.81,
+                "invert_elevation_m": 526.86,
+                "max_depth_m": 2.95,
+                "subcatchment_area_ha": 10.39,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.492428,
+                    17.375231
+                ]
+            },
+            "properties": {
+                "node_id": "J_HUS_036",
+                "node_index": 35,
+                "zone": "Hussain Sagar Surplus & Ashok Nagar",
+                "latitude": 17.375231,
+                "longitude": 78.492428,
+                "ground_elevation_m": 527.89,
+                "invert_elevation_m": 523.51,
+                "max_depth_m": 4.37,
+                "subcatchment_area_ha": 3.79,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.475104,
+                    17.380232
+                ]
+            },
+            "properties": {
+                "node_id": "J_HUS_037",
+                "node_index": 36,
+                "zone": "Hussain Sagar Surplus & Ashok Nagar",
+                "latitude": 17.380232,
+                "longitude": 78.475104,
+                "ground_elevation_m": 526.62,
+                "invert_elevation_m": 522.37,
+                "max_depth_m": 4.25,
+                "subcatchment_area_ha": 5.35,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.496217,
+                    17.3898
+                ]
+            },
+            "properties": {
+                "node_id": "J_HUS_038",
+                "node_index": 37,
+                "zone": "Hussain Sagar Surplus & Ashok Nagar",
+                "latitude": 17.3898,
+                "longitude": 78.496217,
+                "ground_elevation_m": 524.46,
+                "invert_elevation_m": 520.9,
+                "max_depth_m": 3.56,
+                "subcatchment_area_ha": 5.14,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.498616,
+                    17.372793
+                ]
+            },
+            "properties": {
+                "node_id": "J_HUS_039",
+                "node_index": 38,
+                "zone": "Hussain Sagar Surplus & Ashok Nagar",
+                "latitude": 17.372793,
+                "longitude": 78.498616,
+                "ground_elevation_m": 523.0,
+                "invert_elevation_m": 519.23,
+                "max_depth_m": 3.77,
+                "subcatchment_area_ha": 6.41,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.493479,
+                    17.380476
+                ]
+            },
+            "properties": {
+                "node_id": "J_HUS_040",
+                "node_index": 39,
+                "zone": "Hussain Sagar Surplus & Ashok Nagar",
+                "latitude": 17.380476,
+                "longitude": 78.493479,
+                "ground_elevation_m": 521.2,
+                "invert_elevation_m": 516.92,
+                "max_depth_m": 4.27,
+                "subcatchment_area_ha": 12.14,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.474224,
+                    17.389261
+                ]
+            },
+            "properties": {
+                "node_id": "J_HUS_041",
+                "node_index": 40,
+                "zone": "Hussain Sagar Surplus & Ashok Nagar",
+                "latitude": 17.389261,
+                "longitude": 78.474224,
+                "ground_elevation_m": 518.66,
+                "invert_elevation_m": 514.36,
+                "max_depth_m": 4.3,
+                "subcatchment_area_ha": 9.88,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.474744,
+                    17.370276
+                ]
+            },
+            "properties": {
+                "node_id": "J_HUS_042",
+                "node_index": 41,
+                "zone": "Hussain Sagar Surplus & Ashok Nagar",
+                "latitude": 17.370276,
+                "longitude": 78.474744,
+                "ground_elevation_m": 517.36,
+                "invert_elevation_m": 514.85,
+                "max_depth_m": 2.51,
+                "subcatchment_area_ha": 4.09,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.492457,
+                    17.386462
+                ]
+            },
+            "properties": {
+                "node_id": "J_HUS_043",
+                "node_index": 42,
+                "zone": "Hussain Sagar Surplus & Ashok Nagar",
+                "latitude": 17.386462,
+                "longitude": 78.492457,
+                "ground_elevation_m": 515.55,
+                "invert_elevation_m": 512.6,
+                "max_depth_m": 2.95,
+                "subcatchment_area_ha": 11.26,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.481462,
+                    17.377117
+                ]
+            },
+            "properties": {
+                "node_id": "J_HUS_044",
+                "node_index": 43,
+                "zone": "Hussain Sagar Surplus & Ashok Nagar",
+                "latitude": 17.377117,
+                "longitude": 78.481462,
+                "ground_elevation_m": 513.85,
+                "invert_elevation_m": 510.05,
+                "max_depth_m": 3.8,
+                "subcatchment_area_ha": 13.04,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.488749,
+                    17.389728
+                ]
+            },
+            "properties": {
+                "node_id": "J_HUS_045",
+                "node_index": 44,
+                "zone": "Hussain Sagar Surplus & Ashok Nagar",
+                "latitude": 17.389728,
+                "longitude": 78.488749,
+                "ground_elevation_m": 511.39,
+                "invert_elevation_m": 508.16,
+                "max_depth_m": 3.24,
+                "subcatchment_area_ha": 5.45,
+                "is_outfall": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.478887,
+                        17.397248
+                    ],
+                    [
+                        78.491864,
+                        17.377262
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_HUS_031_J_HUS_032",
+                "edge_index": 29,
+                "from_node": "J_HUS_031",
+                "to_node": "J_HUS_032",
+                "from_index": 30,
+                "to_index": 31,
+                "length_m": 2610.3,
+                "diameter_m": 0.9,
+                "slope": 0.001,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.491864,
+                        17.377262
+                    ],
+                    [
+                        78.490669,
+                        17.381033
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_HUS_032_J_HUS_033",
+                "edge_index": 30,
+                "from_node": "J_HUS_032",
+                "to_node": "J_HUS_033",
+                "from_index": 31,
+                "to_index": 32,
+                "length_m": 437.33,
+                "diameter_m": 1.01,
+                "slope": 0.00579,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.490669,
+                        17.381033
+                    ],
+                    [
+                        78.481323,
+                        17.395059
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_HUS_033_J_HUS_034",
+                "edge_index": 31,
+                "from_node": "J_HUS_033",
+                "to_node": "J_HUS_034",
+                "from_index": 32,
+                "to_index": 33,
+                "length_m": 1845.35,
+                "diameter_m": 1.11,
+                "slope": 0.001,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 0.87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.481323,
+                        17.395059
+                    ],
+                    [
+                        78.472198,
+                        17.390327
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_HUS_034_J_HUS_035",
+                "edge_index": 32,
+                "from_node": "J_HUS_034",
+                "to_node": "J_HUS_035",
+                "from_index": 33,
+                "to_index": 34,
+                "length_m": 1100.66,
+                "diameter_m": 1.22,
+                "slope": 0.00167,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.472198,
+                        17.390327
+                    ],
+                    [
+                        78.492428,
+                        17.375231
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_HUS_035_J_HUS_036",
+                "edge_index": 33,
+                "from_node": "J_HUS_035",
+                "to_node": "J_HUS_036",
+                "from_index": 34,
+                "to_index": 35,
+                "length_m": 2721.43,
+                "diameter_m": 1.33,
+                "slope": 0.00123,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.492428,
+                        17.375231
+                    ],
+                    [
+                        78.475104,
+                        17.380232
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_HUS_036_J_HUS_037",
+                "edge_index": 34,
+                "from_node": "J_HUS_036",
+                "to_node": "J_HUS_037",
+                "from_index": 35,
+                "to_index": 36,
+                "length_m": 1918.41,
+                "diameter_m": 1.43,
+                "slope": 0.001,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.475104,
+                        17.380232
+                    ],
+                    [
+                        78.496217,
+                        17.3898
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_HUS_037_J_HUS_038",
+                "edge_index": 35,
+                "from_node": "J_HUS_037",
+                "to_node": "J_HUS_038",
+                "from_index": 36,
+                "to_index": 37,
+                "length_m": 2477.19,
+                "diameter_m": 1.54,
+                "slope": 0.001,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 2.08
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.496217,
+                        17.3898
+                    ],
+                    [
+                        78.498616,
+                        17.372793
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_HUS_038_J_HUS_039",
+                "edge_index": 36,
+                "from_node": "J_HUS_038",
+                "to_node": "J_HUS_039",
+                "from_index": 37,
+                "to_index": 38,
+                "length_m": 1904.83,
+                "diameter_m": 1.65,
+                "slope": 0.001,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.498616,
+                        17.372793
+                    ],
+                    [
+                        78.493479,
+                        17.380476
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_HUS_039_J_HUS_040",
+                "edge_index": 37,
+                "from_node": "J_HUS_039",
+                "to_node": "J_HUS_040",
+                "from_index": 38,
+                "to_index": 39,
+                "length_m": 1011.83,
+                "diameter_m": 1.75,
+                "slope": 0.00228,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 2.66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.493479,
+                        17.380476
+                    ],
+                    [
+                        78.474224,
+                        17.389261
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_HUS_040_J_HUS_041",
+                "edge_index": 38,
+                "from_node": "J_HUS_040",
+                "to_node": "J_HUS_041",
+                "from_index": 39,
+                "to_index": 40,
+                "length_m": 2262.01,
+                "diameter_m": 1.86,
+                "slope": 0.00113,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 2.19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.474224,
+                        17.389261
+                    ],
+                    [
+                        78.474744,
+                        17.370276
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_HUS_041_J_HUS_042",
+                "edge_index": 39,
+                "from_node": "J_HUS_041",
+                "to_node": "J_HUS_042",
+                "from_index": 40,
+                "to_index": 41,
+                "length_m": 2108.06,
+                "diameter_m": 1.97,
+                "slope": 0.001,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 2.39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.474744,
+                        17.370276
+                    ],
+                    [
+                        78.492457,
+                        17.386462
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_HUS_042_J_HUS_043",
+                "edge_index": 40,
+                "from_node": "J_HUS_042",
+                "to_node": "J_HUS_043",
+                "from_index": 41,
+                "to_index": 42,
+                "length_m": 2598.7,
+                "diameter_m": 2.07,
+                "slope": 0.001,
+                "roughness_n": 0.025,
+                "shape": "RECT_CLOSED",
+                "max_flow_capacity_m3s": 2.76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.492457,
+                        17.386462
+                    ],
+                    [
+                        78.481462,
+                        17.377117
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_HUS_043_J_HUS_044",
+                "edge_index": 41,
+                "from_node": "J_HUS_043",
+                "to_node": "J_HUS_044",
+                "from_index": 42,
+                "to_index": 43,
+                "length_m": 1560.22,
+                "diameter_m": 2.18,
+                "slope": 0.00163,
+                "roughness_n": 0.025,
+                "shape": "RECT_CLOSED",
+                "max_flow_capacity_m3s": 4.03
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.481462,
+                        17.377117
+                    ],
+                    [
+                        78.488749,
+                        17.389728
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_HUS_044_J_HUS_045",
+                "edge_index": 42,
+                "from_node": "J_HUS_044",
+                "to_node": "J_HUS_045",
+                "from_index": 43,
+                "to_index": 44,
+                "length_m": 1598.79,
+                "diameter_m": 2.29,
+                "slope": 0.00118,
+                "roughness_n": 0.025,
+                "shape": "RECT_CLOSED",
+                "max_flow_capacity_m3s": 3.89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53089,
+                    17.41732
+                ]
+            },
+            "properties": {
+                "node_id": "J_MUR_046",
+                "node_index": 45,
+                "zone": "Murki Nala & Old City Zone",
+                "latitude": 17.41732,
+                "longitude": 78.53089,
+                "ground_elevation_m": 521.89,
+                "invert_elevation_m": 517.61,
+                "max_depth_m": 4.28,
+                "subcatchment_area_ha": 10.2,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.516779,
+                    17.433844
+                ]
+            },
+            "properties": {
+                "node_id": "J_MUR_047",
+                "node_index": 46,
+                "zone": "Murki Nala & Old City Zone",
+                "latitude": 17.433844,
+                "longitude": 78.516779,
+                "ground_elevation_m": 520.28,
+                "invert_elevation_m": 516.79,
+                "max_depth_m": 3.49,
+                "subcatchment_area_ha": 4.54,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.510123,
+                    17.431674
+                ]
+            },
+            "properties": {
+                "node_id": "J_MUR_048",
+                "node_index": 47,
+                "zone": "Murki Nala & Old City Zone",
+                "latitude": 17.431674,
+                "longitude": 78.510123,
+                "ground_elevation_m": 517.92,
+                "invert_elevation_m": 514.13,
+                "max_depth_m": 3.79,
+                "subcatchment_area_ha": 4.3,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.530318,
+                    17.438214
+                ]
+            },
+            "properties": {
+                "node_id": "J_MUR_049",
+                "node_index": 48,
+                "zone": "Murki Nala & Old City Zone",
+                "latitude": 17.438214,
+                "longitude": 78.530318,
+                "ground_elevation_m": 517.01,
+                "invert_elevation_m": 513.77,
+                "max_depth_m": 3.24,
+                "subcatchment_area_ha": 2.2,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.514546,
+                    17.43785
+                ]
+            },
+            "properties": {
+                "node_id": "J_MUR_050",
+                "node_index": 49,
+                "zone": "Murki Nala & Old City Zone",
+                "latitude": 17.43785,
+                "longitude": 78.514546,
+                "ground_elevation_m": 515.27,
+                "invert_elevation_m": 510.84,
+                "max_depth_m": 4.43,
+                "subcatchment_area_ha": 13.09,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.513253,
+                    17.418833
+                ]
+            },
+            "properties": {
+                "node_id": "J_MUR_051",
+                "node_index": 50,
+                "zone": "Murki Nala & Old City Zone",
+                "latitude": 17.418833,
+                "longitude": 78.513253,
+                "ground_elevation_m": 513.35,
+                "invert_elevation_m": 510.22,
+                "max_depth_m": 3.13,
+                "subcatchment_area_ha": 4.2,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.529785,
+                    17.426704
+                ]
+            },
+            "properties": {
+                "node_id": "J_MUR_052",
+                "node_index": 51,
+                "zone": "Murki Nala & Old City Zone",
+                "latitude": 17.426704,
+                "longitude": 78.529785,
+                "ground_elevation_m": 511.4,
+                "invert_elevation_m": 507.76,
+                "max_depth_m": 3.64,
+                "subcatchment_area_ha": 3.26,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.531402,
+                    17.42845
+                ]
+            },
+            "properties": {
+                "node_id": "J_MUR_053",
+                "node_index": 52,
+                "zone": "Murki Nala & Old City Zone",
+                "latitude": 17.42845,
+                "longitude": 78.531402,
+                "ground_elevation_m": 509.04,
+                "invert_elevation_m": 505.5,
+                "max_depth_m": 3.54,
+                "subcatchment_area_ha": 13.41,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52261,
+                    17.432223
+                ]
+            },
+            "properties": {
+                "node_id": "J_MUR_054",
+                "node_index": 53,
+                "zone": "Murki Nala & Old City Zone",
+                "latitude": 17.432223,
+                "longitude": 78.52261,
+                "ground_elevation_m": 507.8,
+                "invert_elevation_m": 504.58,
+                "max_depth_m": 3.22,
+                "subcatchment_area_ha": 5.82,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.526003,
+                    17.434281
+                ]
+            },
+            "properties": {
+                "node_id": "J_MUR_055",
+                "node_index": 54,
+                "zone": "Murki Nala & Old City Zone",
+                "latitude": 17.434281,
+                "longitude": 78.526003,
+                "ground_elevation_m": 506.17,
+                "invert_elevation_m": 501.84,
+                "max_depth_m": 4.33,
+                "subcatchment_area_ha": 8.65,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.525649,
+                    17.425045
+                ]
+            },
+            "properties": {
+                "node_id": "J_MUR_056",
+                "node_index": 55,
+                "zone": "Murki Nala & Old City Zone",
+                "latitude": 17.425045,
+                "longitude": 78.525649,
+                "ground_elevation_m": 504.15,
+                "invert_elevation_m": 500.25,
+                "max_depth_m": 3.9,
+                "subcatchment_area_ha": 12.35,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51184,
+                    17.4367
+                ]
+            },
+            "properties": {
+                "node_id": "J_MUR_057",
+                "node_index": 56,
+                "zone": "Murki Nala & Old City Zone",
+                "latitude": 17.4367,
+                "longitude": 78.51184,
+                "ground_elevation_m": 502.08,
+                "invert_elevation_m": 499.39,
+                "max_depth_m": 2.69,
+                "subcatchment_area_ha": 9.52,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.515668,
+                    17.411078
+                ]
+            },
+            "properties": {
+                "node_id": "J_MUR_058",
+                "node_index": 57,
+                "zone": "Murki Nala & Old City Zone",
+                "latitude": 17.411078,
+                "longitude": 78.515668,
+                "ground_elevation_m": 500.44,
+                "invert_elevation_m": 497.37,
+                "max_depth_m": 3.07,
+                "subcatchment_area_ha": 9.68,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50282,
+                    17.410915
+                ]
+            },
+            "properties": {
+                "node_id": "J_MUR_059",
+                "node_index": 58,
+                "zone": "Murki Nala & Old City Zone",
+                "latitude": 17.410915,
+                "longitude": 78.50282,
+                "ground_elevation_m": 498.92,
+                "invert_elevation_m": 495.7,
+                "max_depth_m": 3.22,
+                "subcatchment_area_ha": 3.65,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5248,
+                    17.425667
+                ]
+            },
+            "properties": {
+                "node_id": "J_MUR_060",
+                "node_index": 59,
+                "zone": "Murki Nala & Old City Zone",
+                "latitude": 17.425667,
+                "longitude": 78.5248,
+                "ground_elevation_m": 496.52,
+                "invert_elevation_m": 492.77,
+                "max_depth_m": 3.75,
+                "subcatchment_area_ha": 3.11,
+                "is_outfall": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.53089,
+                        17.41732
+                    ],
+                    [
+                        78.516779,
+                        17.433844
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_MUR_046_J_MUR_047",
+                "edge_index": 44,
+                "from_node": "J_MUR_046",
+                "to_node": "J_MUR_047",
+                "from_index": 45,
+                "to_index": 46,
+                "length_m": 2366.74,
+                "diameter_m": 0.9,
+                "slope": 0.001,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.516779,
+                        17.433844
+                    ],
+                    [
+                        78.510123,
+                        17.431674
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_MUR_047_J_MUR_048",
+                "edge_index": 45,
+                "from_node": "J_MUR_047",
+                "to_node": "J_MUR_048",
+                "from_index": 46,
+                "to_index": 47,
+                "length_m": 745.52,
+                "diameter_m": 1.01,
+                "slope": 0.00357,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.510123,
+                        17.431674
+                    ],
+                    [
+                        78.530318,
+                        17.438214
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_MUR_048_J_MUR_049",
+                "edge_index": 46,
+                "from_node": "J_MUR_048",
+                "to_node": "J_MUR_049",
+                "from_index": 47,
+                "to_index": 48,
+                "length_m": 2260.41,
+                "diameter_m": 1.11,
+                "slope": 0.001,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 0.87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.530318,
+                        17.438214
+                    ],
+                    [
+                        78.514546,
+                        17.43785
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_MUR_049_J_MUR_050",
+                "edge_index": 47,
+                "from_node": "J_MUR_049",
+                "to_node": "J_MUR_050",
+                "from_index": 48,
+                "to_index": 49,
+                "length_m": 1672.32,
+                "diameter_m": 1.22,
+                "slope": 0.00175,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.514546,
+                        17.43785
+                    ],
+                    [
+                        78.513253,
+                        17.418833
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_MUR_050_J_MUR_051",
+                "edge_index": 48,
+                "from_node": "J_MUR_050",
+                "to_node": "J_MUR_051",
+                "from_index": 49,
+                "to_index": 50,
+                "length_m": 2115.33,
+                "diameter_m": 1.33,
+                "slope": 0.001,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.513253,
+                        17.418833
+                    ],
+                    [
+                        78.529785,
+                        17.426704
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_MUR_051_J_MUR_052",
+                "edge_index": 49,
+                "from_node": "J_MUR_051",
+                "to_node": "J_MUR_052",
+                "from_index": 50,
+                "to_index": 51,
+                "length_m": 1958.11,
+                "diameter_m": 1.43,
+                "slope": 0.00126,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.529785,
+                        17.426704
+                    ],
+                    [
+                        78.531402,
+                        17.42845
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_MUR_052_J_MUR_053",
+                "edge_index": 50,
+                "from_node": "J_MUR_052",
+                "to_node": "J_MUR_053",
+                "from_index": 51,
+                "to_index": 52,
+                "length_m": 258.73,
+                "diameter_m": 1.54,
+                "slope": 0.00874,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 6.14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.531402,
+                        17.42845
+                    ],
+                    [
+                        78.52261,
+                        17.432223
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_MUR_053_J_MUR_054",
+                "edge_index": 51,
+                "from_node": "J_MUR_053",
+                "to_node": "J_MUR_054",
+                "from_index": 52,
+                "to_index": 53,
+                "length_m": 1021.73,
+                "diameter_m": 1.65,
+                "slope": 0.001,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.52261,
+                        17.432223
+                    ],
+                    [
+                        78.526003,
+                        17.434281
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_MUR_054_J_MUR_055",
+                "edge_index": 52,
+                "from_node": "J_MUR_054",
+                "to_node": "J_MUR_055",
+                "from_index": 53,
+                "to_index": 54,
+                "length_m": 426.07,
+                "diameter_m": 1.75,
+                "slope": 0.00643,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 4.47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.526003,
+                        17.434281
+                    ],
+                    [
+                        78.525649,
+                        17.425045
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_MUR_055_J_MUR_056",
+                "edge_index": 53,
+                "from_node": "J_MUR_055",
+                "to_node": "J_MUR_056",
+                "from_index": 54,
+                "to_index": 55,
+                "length_m": 1025.88,
+                "diameter_m": 1.86,
+                "slope": 0.00155,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 2.57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.525649,
+                        17.425045
+                    ],
+                    [
+                        78.51184,
+                        17.4367
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_MUR_056_J_MUR_057",
+                "edge_index": 54,
+                "from_node": "J_MUR_056",
+                "to_node": "J_MUR_057",
+                "from_index": 55,
+                "to_index": 56,
+                "length_m": 1953.52,
+                "diameter_m": 1.97,
+                "slope": 0.001,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 2.39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.51184,
+                        17.4367
+                    ],
+                    [
+                        78.515668,
+                        17.411078
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_MUR_057_J_MUR_058",
+                "edge_index": 55,
+                "from_node": "J_MUR_057",
+                "to_node": "J_MUR_058",
+                "from_index": 56,
+                "to_index": 57,
+                "length_m": 2872.84,
+                "diameter_m": 2.07,
+                "slope": 0.001,
+                "roughness_n": 0.025,
+                "shape": "RECT_CLOSED",
+                "max_flow_capacity_m3s": 2.76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.515668,
+                        17.411078
+                    ],
+                    [
+                        78.50282,
+                        17.410915
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_MUR_058_J_MUR_059",
+                "edge_index": 56,
+                "from_node": "J_MUR_058",
+                "to_node": "J_MUR_059",
+                "from_index": 57,
+                "to_index": 58,
+                "length_m": 1362.01,
+                "diameter_m": 2.18,
+                "slope": 0.00123,
+                "roughness_n": 0.025,
+                "shape": "RECT_CLOSED",
+                "max_flow_capacity_m3s": 3.49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.50282,
+                        17.410915
+                    ],
+                    [
+                        78.5248,
+                        17.425667
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_MUR_059_J_MUR_060",
+                "edge_index": 57,
+                "from_node": "J_MUR_059",
+                "to_node": "J_MUR_060",
+                "from_index": 58,
+                "to_index": 59,
+                "length_m": 2847.75,
+                "diameter_m": 2.29,
+                "slope": 0.00103,
+                "roughness_n": 0.025,
+                "shape": "RECT_CLOSED",
+                "max_flow_capacity_m3s": 3.63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.547641,
+                    17.45155
+                ]
+            },
+            "properties": {
+                "node_id": "J_CYB_061",
+                "node_index": 60,
+                "zone": "Cyberabad - Hitec City Zone",
+                "latitude": 17.45155,
+                "longitude": 78.547641,
+                "ground_elevation_m": 587.04,
+                "invert_elevation_m": 583.27,
+                "max_depth_m": 3.77,
+                "subcatchment_area_ha": 11.44,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.547189,
+                    17.479276
+                ]
+            },
+            "properties": {
+                "node_id": "J_CYB_062",
+                "node_index": 61,
+                "zone": "Cyberabad - Hitec City Zone",
+                "latitude": 17.479276,
+                "longitude": 78.547189,
+                "ground_elevation_m": 585.02,
+                "invert_elevation_m": 580.93,
+                "max_depth_m": 4.09,
+                "subcatchment_area_ha": 5.52,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.534054,
+                    17.463169
+                ]
+            },
+            "properties": {
+                "node_id": "J_CYB_063",
+                "node_index": 62,
+                "zone": "Cyberabad - Hitec City Zone",
+                "latitude": 17.463169,
+                "longitude": 78.534054,
+                "ground_elevation_m": 582.93,
+                "invert_elevation_m": 578.5,
+                "max_depth_m": 4.43,
+                "subcatchment_area_ha": 12.87,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.543969,
+                    17.470879
+                ]
+            },
+            "properties": {
+                "node_id": "J_CYB_064",
+                "node_index": 63,
+                "zone": "Cyberabad - Hitec City Zone",
+                "latitude": 17.470879,
+                "longitude": 78.543969,
+                "ground_elevation_m": 581.27,
+                "invert_elevation_m": 578.46,
+                "max_depth_m": 2.81,
+                "subcatchment_area_ha": 5.25,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.553138,
+                    17.466477
+                ]
+            },
+            "properties": {
+                "node_id": "J_CYB_065",
+                "node_index": 64,
+                "zone": "Cyberabad - Hitec City Zone",
+                "latitude": 17.466477,
+                "longitude": 78.553138,
+                "ground_elevation_m": 579.96,
+                "invert_elevation_m": 576.9,
+                "max_depth_m": 3.06,
+                "subcatchment_area_ha": 14.41,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.548331,
+                    17.472137
+                ]
+            },
+            "properties": {
+                "node_id": "J_CYB_066",
+                "node_index": 65,
+                "zone": "Cyberabad - Hitec City Zone",
+                "latitude": 17.472137,
+                "longitude": 78.548331,
+                "ground_elevation_m": 578.11,
+                "invert_elevation_m": 574.77,
+                "max_depth_m": 3.34,
+                "subcatchment_area_ha": 5.22,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.554435,
+                    17.460679
+                ]
+            },
+            "properties": {
+                "node_id": "J_CYB_067",
+                "node_index": 66,
+                "zone": "Cyberabad - Hitec City Zone",
+                "latitude": 17.460679,
+                "longitude": 78.554435,
+                "ground_elevation_m": 575.71,
+                "invert_elevation_m": 572.98,
+                "max_depth_m": 2.73,
+                "subcatchment_area_ha": 2.6,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.557364,
+                    17.451222
+                ]
+            },
+            "properties": {
+                "node_id": "J_CYB_068",
+                "node_index": 67,
+                "zone": "Cyberabad - Hitec City Zone",
+                "latitude": 17.451222,
+                "longitude": 78.557364,
+                "ground_elevation_m": 574.6,
+                "invert_elevation_m": 571.16,
+                "max_depth_m": 3.45,
+                "subcatchment_area_ha": 3.27,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.545904,
+                    17.464748
+                ]
+            },
+            "properties": {
+                "node_id": "J_CYB_069",
+                "node_index": 68,
+                "zone": "Cyberabad - Hitec City Zone",
+                "latitude": 17.464748,
+                "longitude": 78.545904,
+                "ground_elevation_m": 572.27,
+                "invert_elevation_m": 568.91,
+                "max_depth_m": 3.37,
+                "subcatchment_area_ha": 7.18,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.550753,
+                    17.468476
+                ]
+            },
+            "properties": {
+                "node_id": "J_CYB_070",
+                "node_index": 69,
+                "zone": "Cyberabad - Hitec City Zone",
+                "latitude": 17.468476,
+                "longitude": 78.550753,
+                "ground_elevation_m": 570.35,
+                "invert_elevation_m": 567.1,
+                "max_depth_m": 3.25,
+                "subcatchment_area_ha": 10.14,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.557395,
+                    17.465094
+                ]
+            },
+            "properties": {
+                "node_id": "J_CYB_071",
+                "node_index": 70,
+                "zone": "Cyberabad - Hitec City Zone",
+                "latitude": 17.465094,
+                "longitude": 78.557395,
+                "ground_elevation_m": 569.16,
+                "invert_elevation_m": 566.33,
+                "max_depth_m": 2.83,
+                "subcatchment_area_ha": 2.92,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.532495,
+                    17.469273
+                ]
+            },
+            "properties": {
+                "node_id": "J_CYB_072",
+                "node_index": 71,
+                "zone": "Cyberabad - Hitec City Zone",
+                "latitude": 17.469273,
+                "longitude": 78.532495,
+                "ground_elevation_m": 567.29,
+                "invert_elevation_m": 562.91,
+                "max_depth_m": 4.38,
+                "subcatchment_area_ha": 9.48,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.550999,
+                    17.461645
+                ]
+            },
+            "properties": {
+                "node_id": "J_CYB_073",
+                "node_index": 72,
+                "zone": "Cyberabad - Hitec City Zone",
+                "latitude": 17.461645,
+                "longitude": 78.550999,
+                "ground_elevation_m": 565.36,
+                "invert_elevation_m": 561.77,
+                "max_depth_m": 3.59,
+                "subcatchment_area_ha": 14.24,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.560536,
+                    17.461583
+                ]
+            },
+            "properties": {
+                "node_id": "J_CYB_074",
+                "node_index": 73,
+                "zone": "Cyberabad - Hitec City Zone",
+                "latitude": 17.461583,
+                "longitude": 78.560536,
+                "ground_elevation_m": 564.01,
+                "invert_elevation_m": 561.11,
+                "max_depth_m": 2.89,
+                "subcatchment_area_ha": 2.9,
+                "is_outfall": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.532247,
+                    17.453023
+                ]
+            },
+            "properties": {
+                "node_id": "J_CYB_075",
+                "node_index": 74,
+                "zone": "Cyberabad - Hitec City Zone",
+                "latitude": 17.453023,
+                "longitude": 78.532247,
+                "ground_elevation_m": 561.39,
+                "invert_elevation_m": 557.53,
+                "max_depth_m": 3.87,
+                "subcatchment_area_ha": 2.93,
+                "is_outfall": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.547641,
+                        17.45155
+                    ],
+                    [
+                        78.547189,
+                        17.479276
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_CYB_061_J_CYB_062",
+                "edge_index": 59,
+                "from_node": "J_CYB_061",
+                "to_node": "J_CYB_062",
+                "from_index": 60,
+                "to_index": 61,
+                "length_m": 3077.96,
+                "diameter_m": 0.9,
+                "slope": 0.001,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.547189,
+                        17.479276
+                    ],
+                    [
+                        78.534054,
+                        17.463169
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_CYB_062_J_CYB_063",
+                "edge_index": 60,
+                "from_node": "J_CYB_062",
+                "to_node": "J_CYB_063",
+                "from_index": 61,
+                "to_index": 62,
+                "length_m": 2266.06,
+                "diameter_m": 1.01,
+                "slope": 0.00107,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 0.69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.534054,
+                        17.463169
+                    ],
+                    [
+                        78.543969,
+                        17.470879
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_CYB_063_J_CYB_064",
+                "edge_index": 61,
+                "from_node": "J_CYB_063",
+                "to_node": "J_CYB_064",
+                "from_index": 62,
+                "to_index": 63,
+                "length_m": 1355.36,
+                "diameter_m": 1.11,
+                "slope": 0.001,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 0.87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.543969,
+                        17.470879
+                    ],
+                    [
+                        78.553138,
+                        17.466477
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_CYB_064_J_CYB_065",
+                "edge_index": 62,
+                "from_node": "J_CYB_064",
+                "to_node": "J_CYB_065",
+                "from_index": 63,
+                "to_index": 64,
+                "length_m": 1087.83,
+                "diameter_m": 1.22,
+                "slope": 0.00143,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.553138,
+                        17.466477
+                    ],
+                    [
+                        78.548331,
+                        17.472137
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_CYB_065_J_CYB_066",
+                "edge_index": 63,
+                "from_node": "J_CYB_065",
+                "to_node": "J_CYB_066",
+                "from_index": 64,
+                "to_index": 65,
+                "length_m": 808.92,
+                "diameter_m": 1.33,
+                "slope": 0.00263,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 2.27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.548331,
+                        17.472137
+                    ],
+                    [
+                        78.554435,
+                        17.460679
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_CYB_066_J_CYB_067",
+                "edge_index": 64,
+                "from_node": "J_CYB_066",
+                "to_node": "J_CYB_067",
+                "from_index": 65,
+                "to_index": 66,
+                "length_m": 1426.96,
+                "diameter_m": 1.43,
+                "slope": 0.00125,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.554435,
+                        17.460679
+                    ],
+                    [
+                        78.557364,
+                        17.451222
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_CYB_067_J_CYB_068",
+                "edge_index": 65,
+                "from_node": "J_CYB_067",
+                "to_node": "J_CYB_068",
+                "from_index": 66,
+                "to_index": 67,
+                "length_m": 1094.68,
+                "diameter_m": 1.54,
+                "slope": 0.00166,
+                "roughness_n": 0.015,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 2.68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.557364,
+                        17.451222
+                    ],
+                    [
+                        78.545904,
+                        17.464748
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_CYB_068_J_CYB_069",
+                "edge_index": 66,
+                "from_node": "J_CYB_068",
+                "to_node": "J_CYB_069",
+                "from_index": 67,
+                "to_index": 68,
+                "length_m": 1931.27,
+                "diameter_m": 1.65,
+                "slope": 0.00117,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 1.61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.545904,
+                        17.464748
+                    ],
+                    [
+                        78.550753,
+                        17.468476
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_CYB_069_J_CYB_070",
+                "edge_index": 67,
+                "from_node": "J_CYB_069",
+                "to_node": "J_CYB_070",
+                "from_index": 68,
+                "to_index": 69,
+                "length_m": 659.87,
+                "diameter_m": 1.75,
+                "slope": 0.00274,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 2.92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.550753,
+                        17.468476
+                    ],
+                    [
+                        78.557395,
+                        17.465094
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_CYB_070_J_CYB_071",
+                "edge_index": 68,
+                "from_node": "J_CYB_070",
+                "to_node": "J_CYB_071",
+                "from_index": 69,
+                "to_index": 70,
+                "length_m": 797.88,
+                "diameter_m": 1.86,
+                "slope": 0.001,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 2.06
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.557395,
+                        17.465094
+                    ],
+                    [
+                        78.532495,
+                        17.469273
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_CYB_071_J_CYB_072",
+                "edge_index": 69,
+                "from_node": "J_CYB_071",
+                "to_node": "J_CYB_072",
+                "from_index": 70,
+                "to_index": 71,
+                "length_m": 2679.85,
+                "diameter_m": 1.97,
+                "slope": 0.00128,
+                "roughness_n": 0.025,
+                "shape": "CIRCULAR",
+                "max_flow_capacity_m3s": 2.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.532495,
+                        17.469273
+                    ],
+                    [
+                        78.550999,
+                        17.461645
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_CYB_072_J_CYB_073",
+                "edge_index": 70,
+                "from_node": "J_CYB_072",
+                "to_node": "J_CYB_073",
+                "from_index": 71,
+                "to_index": 72,
+                "length_m": 2136.38,
+                "diameter_m": 2.07,
+                "slope": 0.001,
+                "roughness_n": 0.025,
+                "shape": "RECT_CLOSED",
+                "max_flow_capacity_m3s": 2.76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.550999,
+                        17.461645
+                    ],
+                    [
+                        78.560536,
+                        17.461583
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_CYB_073_J_CYB_074",
+                "edge_index": 71,
+                "from_node": "J_CYB_073",
+                "to_node": "J_CYB_074",
+                "from_index": 72,
+                "to_index": 73,
+                "length_m": 1010.95,
+                "diameter_m": 2.18,
+                "slope": 0.001,
+                "roughness_n": 0.025,
+                "shape": "RECT_CLOSED",
+                "max_flow_capacity_m3s": 3.15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.560536,
+                        17.461583
+                    ],
+                    [
+                        78.532247,
+                        17.453023
+                    ]
+                ]
+            },
+            "properties": {
+                "conduit_id": "C_J_CYB_074_J_CYB_075",
+                "edge_index": 72,
+                "from_node": "J_CYB_074",
+                "to_node": "J_CYB_075",
+                "from_index": 73,
+                "to_index": 74,
+                "length_m": 3145.57,
+                "diameter_m": 2.29,
+                "slope": 0.00114,
+                "roughness_n": 0.025,
+                "shape": "RECT_CLOSED",
+                "max_flow_capacity_m3s": 3.82
+            }
+        }
+    ]
+}

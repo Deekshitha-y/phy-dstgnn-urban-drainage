@@ -1,0 +1,79 @@
+# ============================================================
+#  .gitignore — Phy-DSTGNN Urban Drainage Project
+# ============================================================
+
+# Python virtual environments
+.venv/
+.venv312/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Distribution / build
+dist/
+build/
+*.egg-info/
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Editors & IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Model checkpoint files (large — store separately or use Git LFS)
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.pkl
+
+# Generated figures (reproducible from notebook)
+IEEE_Research_Figures_Full.png
+IEEE_Research_Figures_Full.pdf
+IEEE_Supplementary_Figures.png
+IEEE_Supplementary_Figures.pdf
+
+# Zip bundles
+*.zip
+
+# Large raw data (use Git LFS or DVC instead)
+# Uncomment if rainfall CSV is too large for GitHub:
+# data/rainfall_raw/*.csv
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+desktop.ini
