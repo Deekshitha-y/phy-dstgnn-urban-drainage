@@ -144,7 +144,7 @@ phy-dstgnn-urban-drainage/
 ├── tests/
 │   └── test_phase1.py                            # Phase 1 pipeline tests
 │
-└── references/                                   # 15 IEEE/Nature reference PDFs
+└── references/                                   # 15 Reference research papers (Nature, NeurIPS, ICLR, etc.)
     ├── Vaswani_et_al_Attention_Is_All_You_Need_2017.pdf
     ├── Raissi_et_al_PINN_2019.pdf
     ├── Brody_et_al_GATv2_2022.pdf

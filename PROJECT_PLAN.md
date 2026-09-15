@@ -1,18 +1,18 @@
-# AI-Based Urban Drainage Overflow Prediction (IEEE Research Project)
+# AI-Based Urban Drainage Overflow Prediction
 ## High-Impact Project Implementation Plan: Physics-Informed Dynamic Spatio-Temporal Graph Neural Network (Phy-DSTGNN)
 
 ---
 
 ## 📌 Executive Summary & Problem Statement
 * **Project Title:** Physics-Informed Dynamic Spatio-Temporal Graph Neural Network (Phy-DSTGNN) for Real-Time Urban Drainage Overflow & Inundation Forecasting.
-* **Target Venue:** IEEE Transactions (e.g., *IEEE Transactions on Big Data*, *IEEE Internet of Things Journal*, *IEEE JSTARS*, *IEEE Access*).
+* **Target Venue:** Top-tier Artificial Intelligence & Environmental Computing Venues.
 * **Study Area:** Greater Hyderabad Municipal Corporation (GHMC), Telangana, India ($17.3850^\circ\text{ N}, 78.4867^\circ\text{ E}$).
 * **Temporal Scope:** 15 Years of Multi-Source Meteorological, Geospatial, and Drainage Data (**2010 – 2025**).
-* **Core Problem:** Heavy monsoon cloudbursts cause catastrophic urban drainage surcharge and street flooding. Existing AI solutions in IEEE literature rely on isolated time-series models (LSTM) or static GNNs that ignore dynamic hydraulic gradients, violate physical mass conservation, and severely underestimate rare flood peaks.
+* **Core Problem:** Heavy monsoon cloudbursts cause catastrophic urban drainage surcharge and street flooding. Existing AI solutions in literature rely on isolated time-series models (LSTM) or static GNNs that ignore dynamic hydraulic gradients, violate physical mass conservation, and severely underestimate rare flood peaks.
 
 ---
 
-## 🎯 Benchmark Performance Targets vs. Existing IEEE Literature
+## 🎯 Benchmark Performance Targets vs. Existing Literature
 
 | Metric Category | Metric | Traditional Hydrodynamic (EPA-SWMM) | Baseline ML/DL (LSTM, CNN-LSTM) | Baseline GNN (STGCN, DCRNN) | **Proposed Phy-DSTGNN (Our Target)** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -169,7 +169,7 @@
 * Optimize the physics-informed mass conservation loss penalty ($\mathcal{L}_{\text{mass}}$).
 * Benchmark against state-of-the-art baselines: Random Forest, XGBoost, Vanilla LSTM, BiLSTM, CNN-LSTM, Transformer (PatchTST), STGCN, and DCRNN.
 
-### Phase 6: Validation, Explainability & IEEE Manuscript Preparation (Weeks 13–15)
+### Phase 6: Validation, Explainability & Manuscript Preparation (Weeks 13–15)
 * Benchmark specifically on the **October 13–14, 2020 Hyderabad Super-Flood (320 mm/24h)**.
 * Generate Explainable AI (XAI) attention heatmaps revealing network bottlenecks.
-* Draft full 2-column IEEE LaTeX manuscript (`IEEEtran.cls`) with high-resolution vector figures and metric tables.
+* Draft full technical research manuscript with high-resolution vector figures and metric tables.
