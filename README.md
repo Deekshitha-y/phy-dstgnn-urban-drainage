@@ -3,7 +3,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch)](https://pytorch.org/)
-[![IEEE Ready](https://img.shields.io/badge/Target-IEEE%20Transactions-blue?logo=ieee)](https://ieeexplore.ieee.org/)
+[![Research Benchmark](https://img.shields.io/badge/Status-Research%20Benchmark-blue)](https://github.com/Deekshitha-y/phy-dstgnn-urban-drainage)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Case Study](https://img.shields.io/badge/Case%20Study-Hyderabad%20GHMC%202010--2025-brightgreen)](https://www.ghmc.gov.in/)
 [![Colab](https://img.shields.io/badge/Run%20in-Google%20Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/)
@@ -191,10 +191,10 @@ jupyter notebook major_project_3.ipynb
 | **Cell 4** | PyTorch DataLoaders (zero data leakage, 70/15/15 split) | ~20s |
 | **Cell 5** | Phy-DSTGNN + Baseline LSTM model definitions | ~10s |
 | **Cell 6** | Training loop (AdamW + CosineAnnealingLR + EarlyStopping) | ~8 min |
-| **Cell 7** | IEEE benchmark evaluation — 8-metric comparison table | ~30s |
+| **Cell 7** | Comprehensive benchmark evaluation — 8-metric comparison table | ~30s |
 | **Cell 8** | XAI (Integrated Gradients) + MC Dropout UQ + Hydrograph | ~45s |
 | **Cell 9** | Live interactive GIS dashboard (6-zone risk map) | ~30s |
-| **Cell 10** | 9 IEEE publication-quality figures (300 DPI PNG + PDF) | ~60s |
+| **Cell 10** | 9 Publication-quality research figures (300 DPI PNG + PDF) | ~60s |
 | **Cell 11** | Model checkpoint save + complete session summary | ~10s |
 | **Cell 12** | Auto-download all outputs to local PC | ~10s |
 
@@ -258,9 +258,9 @@ Risk tiers:
 
 ---
 
-## 📄 Publication Figures
+## 📄 Research & Evaluation Figures
 
-Running Cells 10 & 10B generates **9 IEEE-standard figures** at 300 DPI:
+Running Cells 10 & 10B generates **9 publication-quality research figures** at 300 DPI:
 
 | Figure | Description |
 |:---|:---|
@@ -284,8 +284,8 @@ After running all 12 cells, the following files are generated:
 |:---|:---|
 | `phy_dstgnn_final.pth` | Trained Phy-DSTGNN model weights (103,306 params) |
 | `baseline_lstm_final.pth` | Trained Baseline LSTM weights (11,242 params) |
-| `IEEE_Research_Figures_Full.png` | 6 main IEEE publication figures (300 DPI) |
-| `IEEE_Research_Figures_Full.pdf` | Vector PDF for journal submission |
+| `IEEE_Research_Figures_Full.png` | 6 main research figures (300 DPI) |
+| `IEEE_Research_Figures_Full.pdf` | Vector PDF for publication/presentation |
 | `IEEE_Supplementary_Figures.png` | 3 supplementary figures (300 DPI) |
 | `IEEE_Supplementary_Figures.pdf` | Supplementary vector PDF |
 | `PhyDSTGNN_GreaterHyderabad_Complete_Output.zip` | All of the above bundled |
@@ -328,7 +328,7 @@ Full PDFs available in the [`references/`](references/) folder.
 
 **Deekshitha Y**
 B.Tech — Computer Science Engineering
-Project: Major Project (IEEE Research Publication)
+Project: Major Project — Research & Engineering Implementation
 
 ---
 
