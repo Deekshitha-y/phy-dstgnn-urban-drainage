@@ -66,6 +66,10 @@ IEEE_Supplementary_Figures.pdf
 # Zip bundles
 *.zip
 
+# Presentations
+*.pptx
+*.ppt
+
 # Large raw data (use Git LFS or DVC instead)
 # Uncomment if rainfall CSV is too large for GitHub:
 # data/rainfall_raw/*.csv
